@@ -1,0 +1,5 @@
+IP: 62.84.123.136
+name_taski: https://taskimus.servebeer.com/;
+name_kittygram: https://kittygram.servebeer.com/;
+login: admin; 
+password: admin;
